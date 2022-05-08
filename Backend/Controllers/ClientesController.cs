@@ -12,8 +12,8 @@ namespace LocadoraFilmes.Controllers
 {
     [Produces("application/json")]
 
-    // Define que a rota de uma requisição será no formato domínio/api/NomeController
     [Route("api/[controller]")]
+
     [ApiController]
     public class ClientesController : ControllerBase
     {

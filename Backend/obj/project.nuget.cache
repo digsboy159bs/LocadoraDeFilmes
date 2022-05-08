@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f4xFBElc0TB9Yrqqi7KLY1lOL56VZDgRuSBA8w8Yh+9aoT8C52KVwhSd8/y2Z8/Grrul1DkZ8hkdyNa+YpE6Bw==",
+  "dgSpecHash": "zam4bUaEdPTED16+l2gwXclf8gnsYXnpBa8ZM9Ojc0GD8FjJ7FPr3qJ6UKx2jUpk2tnZ+KOJxIwr2fMZXCqrSQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Intel\\source\\repos\\LocadoraFilmes\\LocadoraFilmes.csproj",
+  "projectFilePath": "C:\\Users\\Intel\\source\\repos\\LocadoraFilmes\\Backend\\LocadoraFilmes.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Intel\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Intel\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",

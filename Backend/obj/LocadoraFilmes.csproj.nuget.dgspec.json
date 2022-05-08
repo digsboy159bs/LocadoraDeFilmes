@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Intel\\source\\repos\\LocadoraFilmes\\LocadoraFilmes.csproj": {}
+    "C:\\Users\\Intel\\source\\repos\\LocadoraFilmes\\Backend\\LocadoraFilmes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Intel\\source\\repos\\LocadoraFilmes\\LocadoraFilmes.csproj": {
+    "C:\\Users\\Intel\\source\\repos\\LocadoraFilmes\\Backend\\LocadoraFilmes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Intel\\source\\repos\\LocadoraFilmes\\LocadoraFilmes.csproj",
+        "projectUniqueName": "C:\\Users\\Intel\\source\\repos\\LocadoraFilmes\\Backend\\LocadoraFilmes.csproj",
         "projectName": "LocadoraFilmes",
-        "projectPath": "C:\\Users\\Intel\\source\\repos\\LocadoraFilmes\\LocadoraFilmes.csproj",
+        "projectPath": "C:\\Users\\Intel\\source\\repos\\LocadoraFilmes\\Backend\\LocadoraFilmes.csproj",
         "packagesPath": "C:\\Users\\Intel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Intel\\source\\repos\\LocadoraFilmes\\obj\\",
+        "outputPath": "C:\\Users\\Intel\\source\\repos\\LocadoraFilmes\\Backend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Intel\\AppData\\Roaming\\NuGet\\NuGet.Config",
