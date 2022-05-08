@@ -50,6 +50,9 @@ SELECT * FROM Usuarios;
 SELECT * FROM TipoUsuario;
 SELECT * FROM Generos;
 
+SELECT Nome, NomeGenero FROM Filmes
+INNER JOIN Generos ON Filmes.IdGenero = Generos.IdGenero;
+
 INSERT INTO TipoUsuario(Tipo)
 VALUES('Administrador'), ('Comum');
 
